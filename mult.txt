@@ -2,7 +2,6 @@ nothing much here bro
 hard reset
 added to create conflict for cherry picking
 cherry pick
-cherry pick 2
 cherry pick 3
 change 4
-changer after master
+changer after masterfor diff
