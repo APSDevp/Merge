@@ -1,3 +1,4 @@
 simple file to check revision
 sample file to be deployed
 stashing
+new files added
